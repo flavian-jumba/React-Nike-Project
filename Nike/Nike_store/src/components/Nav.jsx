@@ -6,7 +6,6 @@ function Nav() {
     <nav>
         <a href="#">
             <img src= {headerLogo} alt="" />
-            This is A header
         </a>
     </nav>
    </header>
